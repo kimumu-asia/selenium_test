@@ -1,0 +1,19 @@
+{
+  "name": "selenium_test",
+  "version": "1.0.0",
+  "description": "Selenium javascript playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seolah kim",
+  "dependencies": {
+    "assert": "2.1.0",
+    "axe-webdriverjs": "^2.3.0",
+    "selenium-webdriver": "^4.1.0"
+  },
+  "devDependencies": {
+    "axe-core": "^4.3.5"
+  },
+  "license": "ISC"
+}
